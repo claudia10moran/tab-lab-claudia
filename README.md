@@ -2,7 +2,7 @@
 
 **2º de Bach A · Curso 2026-2027**
 
-Aquí iré poniendo mi trabajo de esta asignatura y mis avances: qué construí, dónde me atasqué y cómo salí.
+Aquí iré poniendo mi trabajo de esta asignatura junto a mis avances: qué construí, dónde me atasqué y cómo salí.
 
 ---
 
