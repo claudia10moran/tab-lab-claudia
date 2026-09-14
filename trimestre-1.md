@@ -1,9 +1,8 @@
 # Primer trimestre
-### 14/09 · Mi primer TDA Lab
+### 27/10 · La red que no funcionaba
 
-- **Aplicación:** GitHub
-- **Entregado:** la dirección de mi Lab
-- **Qué hice:** copiar el Lab de partida y ponerle mi nombre.
+- **Aplicación:** Packet Tracer
+- **Entregado:** U1_A5_Red_Lucia.pka
+- **Qué hice:** arreglar una red de cuatro equipos que no se veían entre sí.
 
 ---
-
