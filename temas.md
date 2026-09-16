@@ -14,6 +14,9 @@ Buscando en GitHub he encontrado [TuxGuitar](https://github.com/Laboratoria/gym)
 una página donde enseña 20 sesiones de gimnasio en las que se van explorando
 distintos tipos de ejercicios.
 
+
 ![#entrenandoduro](capturas/gym.png)
 
 ---
+
+[← Volver al inicio](README.md)
