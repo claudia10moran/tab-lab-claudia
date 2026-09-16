@@ -10,9 +10,10 @@ atletismo, que estuve desde los 8 años hasta los 16 años.
 Pero aún así, es una parte importante de mi rutina, que
 me hace distraerme cuando lo necesito.
 
-Buscando en GitHub he encontrado [TuxGuitar](https://github.com/helge17/tuxguitar),
-un programa libre para escribir tablaturas de guitarra.
+Buscando en GitHub he encontrado [TuxGuitar](https://github.com/Laboratoria/gym),
+una página donde enseña 20 sesiones de gimnasio en las que se van explorando
+distintos tipos de ejercicios.
 
-![Mi balón de balonmano](capturas/balonmano.jpg)
+![#entrenandoduro]()
 
 ---
