@@ -24,6 +24,7 @@ Entre todos los ganadores de este premio he escogido a Leo Messi, que fue premia
 Yo lo he escogido, ya no solo porque era el único que conocía, sino porque a que me parece un ejemplo a seguir por su constancia, esfuerzo y trabajo dentro del campo, y su humildad y sinceridad fuera de el.
 
 ![#LeoMessi](capturas/LeoMessi.jpg)
+
 Autor: Hossein Zohrevand, Lionel-Messi-Argentina-2022-FIFA-World-Cup (cropped).jpg
 
 [← Volver al inicio](README.md)
