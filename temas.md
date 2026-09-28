@@ -10,7 +10,7 @@ atletismo, que estuve desde los 8 años hasta los 16 años.
 Pero aún así, es una parte importante de mi rutina, que
 me hace distraerme cuando lo necesito.
 
-Buscando en GitHub he encontrado [TuxGuitar](https://github.com/Laboratoria/gym),
+Buscando en GitHub he encontrado [Laboratoria/gym](https://github.com/Laboratoria/gym),
 una página donde enseña 20 sesiones de gimnasio en las que se van explorando
 distintos tipos de ejercicios.
 
