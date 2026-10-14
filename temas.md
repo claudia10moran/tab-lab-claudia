@@ -34,6 +34,7 @@ Autor: Hossein Zohrevand, [Wikimedia Commons](https://commons.wikimedia.org/w/in
 
 ### 14/10 · Ada Lovelace
 Ada Lovelace fue una matemática y escritora nacida en Reino Unido, reconocida por su gran trabajo con la máquina analítica (que es computadora mecánica). Fue la primera en darse cuenta que la computadora servía para más cosas que el cálculo, y publicó lo que hoy en día es el primer algoritmo para ser procesado por una máquina. Por el gran legado que ha dejado sobre nosotros, cada segundo martes de Octubre se celebra su día, con el objetivo de reconocer y visibilizar los logros de las mujeres en los campos de la ciencia, la tecnología, la ingeniería y las matemáticas. 
+
 Para más información sobre Ada Lovelace puedes consultar en [Wikipedia de Ada Lovelace](https://es.wikipedia.org/wiki/Ada_Lovelace)
 
 ![Ada Lovelace](capturas/ada.jpg){: width="300"}
