@@ -55,7 +55,7 @@ Para más información sobre la Voyager puedes consultar [La Nasa Voyager](https
 | Lo que tarda su señal en llegar | 24 horas |
 | Años de viaje | 49 años |
 
-![Voyager](capturas/voyager.jpg){: width="300"}
+![Voyager](capturas/voyager.webp){: width="300"}
 *Autor: NASA/JPL, [Wikimedia Commons](https://commons.wikimedia.org/w/index.php?search=voyager&title=Special%3AMediaSearch&type=image)*
 
 
