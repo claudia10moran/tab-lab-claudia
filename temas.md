@@ -42,7 +42,7 @@ Para más información sobre Ada Lovelace puedes consultar en [Wikipedia de Ada 
 
 ---
 
-###27/11 · Voyager 1
+### 27/11 · Voyager 1
 La Voyager es una sonda espacial de la NASA que tenía como misión explorar Júpiter y Saturno. Fue lanzada el 5 de septiembre de 1977 y actualmente se encuentra en el espacio, siendo el objeto creado por el ser humano más lejano de la Tierra. El 18 de noviembre de 2026 se convirtió en el primero en alcanzar un día luz de distancia (unos 25.900 millones de kilómetros). Una curiosidad sobre esta es que lleva un disco de oro con sonidos e imágenes de la Tierra como mensaje para posibles extraterrestres.
 
 Para más información sobre la Voyager puedes consultar [La Nasa Voyager](https://ciencia.nasa.gov/mission/voyager/)
