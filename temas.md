@@ -28,8 +28,6 @@ Yo lo he escogido, ya no solo porque era el único que conocía, sino porque a q
 
 Autor: Hossein Zohrevand, [Wikimedia Commons](https://commons.wikimedia.org/w/index.php?search=leo+messi&title=Special%3AMediaSearch&type=image)
 
-[← Volver al inicio](README.md)
-
 ---
 
 ### 13/10 · Ada Lovelace
@@ -65,4 +63,8 @@ Para más información sobre la Voyager puedes consultar [La Nasa Voyager](https
 - **Lo que pondría:** una imagen de mi familia y de mis gatos, además de algún mensaje por si le llega a extraterrestres
 - **En qué idioma:** En español, inglés y código morse, aunque los extraterrestres probablemente no entiendan ninguna
 - **En qué formato:** las imágenes impresas y el mensaje escrito a mano en un papel
+- 
+--- 
+
+[← Volver al inicio](README.md)
 
