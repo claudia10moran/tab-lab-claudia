@@ -47,9 +47,9 @@ La Voyager es una sonda espacial de la NASA que tenía como misión explorar Jú
 
 | Dato | Voyager 1 |
 |---|---|
-| Lanzamiento | 5, 09 Y 1977 |
+| Lanzamiento | 5 de Septiembre de 1977 |
 | Distancia a la Tierra | 25.900 millones km |
-| Velocidad | 1.079.252.848,8 KM/H |
-| Lo que tarda su señal en llegar | 24 HORAS |
-| Años de viaje | 49 AÑOS |
+| Velocidad | 1.079.252.848,8 Km/h |
+| Lo que tarda su señal en llegar | 24 horas |
+| Años de viaje | 49 años |
 
