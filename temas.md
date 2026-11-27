@@ -63,7 +63,7 @@ Para más información sobre la Voyager puedes consultar [La Nasa Voyager](https
 - **Lo que pondría:** una imagen de mi familia y de mis gatos, además de algún mensaje por si le llega a extraterrestres
 - **En qué idioma:** En español, inglés y código morse, aunque los extraterrestres probablemente no entiendan ninguna
 - **En qué formato:** las imágenes impresas y el mensaje escrito a mano en un papel
-- 
+  
 --- 
 
 [← Volver al inicio](README.md)
