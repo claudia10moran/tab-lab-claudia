@@ -55,7 +55,14 @@ Para más información sobre la Voyager puedes consultar [La Nasa Voyager](https
 | Lo que tarda su señal en llegar | 24 horas |
 | Años de viaje | 49 años |
 
+
 ![Voyager](capturas/voyager.webp){: width="300"}
 *Autor: NASA/JPL, [Wikimedia Commons](https://commons.wikimedia.org/w/index.php?search=voyager&title=Special%3AMediaSearch&type=image)*
 
+
+**Mi Disco de Oro 2026**
+
+- **Lo que pondría:** una imagen de mi familia y de mis gatos, además de algún mensaje por si le llega a extraterrestres
+- **En qué idioma:** En español, inglés y código morse, aunque los extraterrestres probablemente no entiendan ninguna
+- **En qué formato:** las imágenes impresas y el mensaje escrito a mano en un papel
 
